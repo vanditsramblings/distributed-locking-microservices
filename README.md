@@ -1,2 +1,2 @@
-# distributed-locking-microservices
-A distributed locking implementation using Redis
+# multi-instance-locking
+A distributed locking mechanism for implementation using Redis
