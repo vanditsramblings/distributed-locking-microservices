@@ -1,0 +1,8 @@
+
+spring:
+  application:
+    name: distributed-locking
+    version: 1.0.0-alpha
+
+
+distributed.lock.key.prefix: "DISTRIBUTED_LOCK"
